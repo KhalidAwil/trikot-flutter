@@ -1,8 +1,3 @@
-# trikot
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# trikot-flutter
+Trikot Pickup Soccer app using Flutter
